@@ -2,9 +2,9 @@
 
 <h1 align="center">💫 About Project</h1>
 
-## 🧸 Yo-Link — Link shortening service with API and web interface
+## 🧸 Dapper-School — a simple html website with a bit of js added
 
-Yo-Link is a simple and fast URL shortening service written in Go. It supports REST API, authorization, and link customization
+Dapper-School my usual one was one of the first projects when I started my way to frontend and created websites using a template from figma)
 
 ## 💻 Tech Stack:
 
