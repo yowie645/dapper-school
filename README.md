@@ -8,16 +8,7 @@ Yo-Link is a simple and fast URL shortening service written in Go. It supports R
 
 ## 💻 Tech Stack:
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ✨ Key Features
-
-- **URL Shortening Engine:** Shortening long URLs into short ones (for example,https://example.com/very-long-path → http://localhost:8082/yourAlias or http://yourdomain:8082/yourAlias)
-- **Smart Storage:** All your links are stored securely in a local **SQLite** database, ensuring quick and reliable access without any third-party dependencies.
-- **Link Protection:** HTTP Basic Auth for access protection.
-- **Flexible setup:** Configuration via a YAML file.
-- **Auto-start:** Deployment via systemd (included in the repository).
-- **Integration with services:** REST API for integration with other services.
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 🛠️ Installation
 
