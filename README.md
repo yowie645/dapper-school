@@ -4,7 +4,7 @@
 
 ## 🧸 Dapper-School — a simple html website with a bit of js added
 
-Dapper-School my usual one was one of the first projects when I started my way to frontend and created websites using a template from figma)
+Dapper-School is my usual one was one of the first projects when I started my way to frontend and created websites using a template from figma)
 
 ## 💻 Tech Stack:
 
